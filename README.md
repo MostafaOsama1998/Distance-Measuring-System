@@ -1,4 +1,4 @@
-# Distance-Measuring-System
+# Distance-Measuring-Embedded-Project
 Using Atmega 16 for implementing Stop Watch System with features like ( Pause, Resume & Reset )
 
 Description:
